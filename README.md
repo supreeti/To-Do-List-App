@@ -1,7 +1,5 @@
 # To-Do-List-App
-# Awesomebooks-ES6# 
-This project is about addition and deletion of books into local storage 
-using javascript objects. 
+This project is about simple to do list app using webpack. 
 
 <!-- TABLE OF CONTENTS -->
 
@@ -21,11 +19,10 @@ using javascript objects.
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [MYCAPSTONE] <a name="about-project"></a>
+# 📖 [To-Do-List-App] <a name="about-project"></a>
 .
-**[MYCAPSTONE]**  
-This project is about addition and deletion of awesome books using javascript ES6 and modules. 
-
+**[To-Do-List-App]**  
+This project is about simple to do list app using webpack.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,7 +52,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git@github.com:supreeti/Awesomebooks-ES6.git
+  git@github.com:supreeti/To-Do-List-App.git
 ```
 ### Install
 
